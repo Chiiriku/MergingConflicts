@@ -4,7 +4,7 @@ public class HelloWorld {
 
     System.out.println("Hello from VSCode, som skaber konflikt");
 
-    git config pull.rebase false  # merge
+    git config pull.rebase false
     
     }
 }
